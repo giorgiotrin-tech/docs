@@ -1,4 +1,4 @@
----
+--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-
 title: Displaying verification statuses for all of your commits
 shortTitle: Displaying verification for all commits
 intro: You can enable vigilant mode for commit signature verification to mark all of your commits and tags with a signature verification status.
